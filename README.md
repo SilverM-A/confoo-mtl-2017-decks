@@ -76,6 +76,10 @@ Twitter: [@maartenballiauw](https://twitter.com/maartenballiauw)
 #### [Connecting people - Identity in your platform](https://confoo.ca/en/yul2017/session/connecting-people-identity-in-your-platform)
 By [Rowan Merewood](https://confoo.ca/en/speaker/rowan-merewood)
 
+Deck : [Slides](https://goo.gl/dstgV4)
+
+Twitter: [@rowan_m](https://twitter.com/rowan_m)
+
 #### [PM-Led Accessibility: Level up yourself and your team!](https://confoo.ca/en/yul2017/session/pm-led-accessibility-level-up-yourself-and-your-team)
 By [Robert Jolly](https://confoo.ca/en/speaker/robert-jolly)
 
@@ -196,6 +200,8 @@ By [Christian Heilmann](https://confoo.ca/en/speaker/christian-heilmann)
 ## Thursday
 ### 9:00-9:25 [Surviving Your Next Data Breach](https://confoo.ca/fr/yul2017/session/surviving-your-next-data-breach)
 By [Anna Filina](https://confoo.ca/fr/speaker/anna-filina)
+
+Deck [Slides](https://speakerdeck.com/afilina/surviving-your-next-data-breach)
 
 Twitter [@afilina](https://twitter.com/afilina)
 
