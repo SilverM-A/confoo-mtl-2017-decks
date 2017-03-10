@@ -76,10 +76,6 @@ Twitter: [@maartenballiauw](https://twitter.com/maartenballiauw)
 #### [Connecting people - Identity in your platform](https://confoo.ca/en/yul2017/session/connecting-people-identity-in-your-platform)
 By [Rowan Merewood](https://confoo.ca/en/speaker/rowan-merewood)
 
-Deck : [Slides](https://goo.gl/dstgV4)
-
-Twitter: [@rowan_m](https://twitter.com/rowan_m)
-
 #### [PM-Led Accessibility: Level up yourself and your team!](https://confoo.ca/en/yul2017/session/pm-led-accessibility-level-up-yourself-and-your-team)
 By [Robert Jolly](https://confoo.ca/en/speaker/robert-jolly)
 
@@ -198,14 +194,14 @@ By [Anna Filina](https://confoo.ca/en/speaker/anna-filina)
 By [Christian Heilmann](https://confoo.ca/en/speaker/christian-heilmann)
 
 ## Thursday
-### 9:00-9:25 [Surviving Your Next Data Breach](https://confoo.ca/fr/yul2017/session/surviving-your-next-data-breach)
+### 9:00-9:25 
+#### [Surviving Your Next Data Breach](https://confoo.ca/fr/yul2017/session/surviving-your-next-data-breach)
 By [Anna Filina](https://confoo.ca/fr/speaker/anna-filina)
-
-Deck [Slides](https://speakerdeck.com/afilina/surviving-your-next-data-breach)
 
 Twitter [@afilina](https://twitter.com/afilina)
 
-### 9:25-9:50 [The Progressive Web and its New Challenges](https://confoo.ca/fr/yul2017/session/the-progressive-web-and-its-new-challenges)
+### 9:25-9:50
+#### [The Progressive Web and its New Challenges](https://confoo.ca/fr/yul2017/session/the-progressive-web-and-its-new-challenges)
 By [Christian Heilmann](https://confoo.ca/fr/speaker/christian-heilmann)
 
 Deck [slideshare](https://www.slideshare.net/cheilmann/the-progressive-web-and-its-new-challenges-confoo-montral-2017)
@@ -232,13 +228,10 @@ By [Barbara Fusinska](https://confoo.ca/en/speaker/barbara-fusinska)
 #### [Build a Web API with Hanami](https://confoo.ca/en/yul2017/session/build-a-web-api-with-hanami)
 By [Christophe Philemotte](https://confoo.ca/en/speaker/christophe-philemotte)
 
-* By [Christophe Philemotte](http://ibakesoftware.com)
-* Deck [slides](https://speakerdeck.com/toch/build-a-web-api-with-hanami-confoo-montreal-2017) [code](https://github.com/toch/confoomontreal2017-jsonapi)
-* Twitter [@_toch](https://twitter.com/_toch)
-* Github [toch](https://github.com/toch)
-
 #### [.NET Debugging tricks you wish you knew](https://confoo.ca/en/yul2017/session/net-debugging-tricks-you-wish-you-knew)
 By [Tamir Dresher](https://confoo.ca/en/speaker/tamir-dresher)
+
+Deck [Sildes](https://www.slideshare.net/mobile/TamirDresher/net-debugging-tricks-you-wish-you-knew-tamir-dresher)
 
 #### [Varnish In Action](https://confoo.ca/en/yul2017/session/varnish-in-action-1)
 By [Thijs Feryn](https://confoo.ca/en/speaker/thijs-feryn)
@@ -251,11 +244,14 @@ By [Damien Senger](https://confoo.ca/en/speaker/damien-senger)
 #### [Fully automated ACME/Letsencrypt integration](https://confoo.ca/en/yul2017/session/fully-automated-acme-letsencrypt-integration)
 By [Magnus Hagander](https://confoo.ca/en/speaker/magnus-hagander)
 
+### 11:00-11:45
 #### [Solving real world problems with design patterns!](https://confoo.ca/en/yul2017/session/solving-real-world-problems-with-design-patterns)
 By [Hugo Hamon](https://confoo.ca/en/speaker/hugo-hamon)
 
 #### [Getting and staying fast - A web performance round-up](https://confoo.ca/en/yul2017/session/getting-and-staying-fast-a-web-performance-round-up)
 By [Bastian Hofmann](https://confoo.ca/en/speaker/bastian-hofmann)
+
+Deck [Slides](https://speakerdeck.com/bastianhofmann/getting-and-staying-fast-a-web-performance-round-up)
 
 #### [Java EE -- the most lightweight enterprise framework?](https://confoo.ca/en/yul2017/session/java-ee-the-most-lightweight-enterprise-framework)
 By [Sebastian Daschner](https://confoo.ca/en/speaker/sebastian-daschner)
@@ -265,6 +261,10 @@ By [Lucien Boix](https://confoo.ca/en/speaker/lucien-boix)
 
 #### [What can I build with AMP?](https://confoo.ca/en/yul2017/session/what-can-i-build-with-amp)
 By [Rowan Merewood](https://confoo.ca/en/speaker/rowan-merewood)
+
+Deck [Slide](goo.gl/JQ9qgs)
+
+Twitter [@rowan_m](https://twitter.com/rowan_m)
 
 #### [Ready, Set, Go Mobile with React Native!](https://confoo.ca/en/yul2017/session/ready-set-go-mobile-with-react-native)
 By [Alexandre Rimthong](https://confoo.ca/en/speaker/alexandre-rimthong)
@@ -282,6 +282,7 @@ Twitter: [@maartenballiauw](https://twitter.com/maartenballiauw)
 #### [Running .NET applications with Docker](https://confoo.ca/en/yul2017/session/running-net-applications-with-docker)
 By [Ben Hall](https://confoo.ca/en/speaker/ben-hall)
 
+### 13:00-13:45
 #### [I saw the future, and the web servers were written in PHP](https://confoo.ca/en/yul2017/session/i-saw-the-future-and-the-web-servers-were-written-in-php)
 By [David Zuelke](https://confoo.ca/en/speaker/david-zuelke)
 
@@ -317,6 +318,7 @@ Deck [slideshare](https://www.slideshare.net/cheilmann/the-soul-in-the-machine-d
 #### [More Human Interfaces: Developing Wearable & Alexa Voice UIs](https://confoo.ca/en/yul2017/session/more-human-interfaces-developing-wearable-alexa-voice-uis)
 By [Mark Heckler](https://confoo.ca/en/speaker/mark-heckler)
 
+### 14:00-14:45
 #### [Git Scenarios: How Do I Fix That?](https://confoo.ca/en/yul2017/session/git-scenarios-how-do-i-fix-that)
 By [Rob Richardson](https://confoo.ca/en/speaker/rob-richardson)
 
@@ -333,7 +335,6 @@ By [Greg Ward](https://confoo.ca/en/speaker/greg-ward)
 By [François Marier](https://confoo.ca/en/speaker/francois-marier)
 
 Deck [speakerdeck](https://speakerdeck.com/fmarier/getting-browsers-to-improve-the-security-of-your-webapp)
-
 Twitter [@fmarier](https://twitter.com/fmarier)
 
 #### [The Evolution and Future of Content Publishing](https://confoo.ca/en/yul2017/session/the-evolution-and-future-of-content-publishing)
@@ -350,6 +351,7 @@ By [Marc-Andre Giroux](https://confoo.ca/en/speaker/marc-andre-giroux)
 #### [Leveraging type inference with fluent APIs and typesafe DSLs](https://confoo.ca/en/yul2017/session/leveraging-type-inference-with-fluent-apis-and-typesafe-dsls)
 By [Breandan Considine](https://confoo.ca/en/speaker/breandan-considine)
 
+### 15:00-15:45
 #### [Machine Learning Algorithms](https://confoo.ca/en/yul2017/session/machine-learning-algorithms)
 By [Hanneli Tavante](https://confoo.ca/en/speaker/hanneli-tavante)
 
@@ -377,6 +379,7 @@ By [Dave MacFarlane](https://confoo.ca/en/speaker/dave-macfarlane)
 #### [Creating a Database with Django ORM](https://confoo.ca/en/yul2017/session/creating-a-database-with-django-orm-2)
 By [Susan Ibach](https://confoo.ca/en/speaker/susan-ibach)
 
+### 16:00-16:45
 #### [Creating Bots](https://confoo.ca/en/yul2017/session/creating-bots)
 By [Christopher Harrison](https://confoo.ca/en/speaker/christopher-harrison)
 
@@ -424,11 +427,6 @@ By [Sasha Goldshtein](https://confoo.ca/en/speaker/sasha-goldshtein)
 #### [Enterprise learning can be fun](https://confoo.ca/en/yul2017/session/enterprise-learning-can-be-fun)
 By [Christophe Philemotte](https://confoo.ca/en/speaker/christophe-philemotte)
 
-* By [Christophe Philemotte](http://ibakesoftware.com)
-* Deck [slides](https://speakerdeck.com/toch/enterprise-learning-can-be-fun-confoo-montreal-2017)
-* Twitter [@_toch](https://twitter.com/_toch)
-* Github [toch](https://github.com/toch)
-
 #### [Machine learning for Music performance](https://confoo.ca/en/yul2017/session/machine-learning-for-music-performance)
 By [Fred Cecilia](https://confoo.ca/en/speaker/fred-cecilia)
 
@@ -442,10 +440,6 @@ By [Christian Heimes](https://confoo.ca/en/speaker/christian-heimes)
 #### [HTML5 APIs You've Never Heard Of](https://confoo.ca/en/yul2017/session/html5-apis-you-ve-never-heard-of-1)
 By [Drew McLellan](https://confoo.ca/en/speaker/drew-mclellan)
 
-Deck [Slides](speakerdeck.com/drewm/html5-aprs-confoo-montreal)
-
-Twitter [@drewm](https://twitter.com/drewm)
-
 #### [MySQL Replication Evolution](https://confoo.ca/en/yul2017/session/mysql-replication-evolution)
 By [Dave Stokes](https://confoo.ca/en/speaker/dave-stokes)
 
@@ -454,10 +448,6 @@ By [Yann  Larrivee](https://confoo.ca/en/speaker/yann-larrivee)
 
 #### [Death By Specification](https://confoo.ca/en/yul2017/session/death-by-specification)
 By [Steve Jackson](https://confoo.ca/en/speaker/steve-jackson)
-
-Deck [speakerdeck](https://speakerdeck.com/stevenjackson/better-software-through-shared-understanding)
-
-Twitter [@stevejxsn](https://twitter.com/stevejxsn)
 
 #### [Preparing your data for Machine Learning](https://confoo.ca/en/yul2017/session/preparing-your-data-for-machine-learning)
 By [Susan Ibach](https://confoo.ca/en/speaker/susan-ibach)
@@ -496,14 +486,8 @@ By [Heidi Waterhouse](https://confoo.ca/en/speaker/heidi-waterhouse)
 #### [Accessible & Usable Web Forms. Your How To Guide!](https://confoo.ca/en/yul2017/session/accessible-usable-web-forms-your-how-to-guide)
 By [Rabab Gomaa](https://confoo.ca/en/speaker/rabab-gomaa)
 
-Deck : [Slides](https://www.slideshare.net/mobile/RababGomaa/accessibility-of-web-forms-58680124)
-
 #### [Intermediate Laravel Tips and Tricks](https://confoo.ca/en/yul2017/session/intermediate-laravel-tips-and-tricks)
 By [Mathieu Dumoulin](https://confoo.ca/en/speaker/mathieu-dumoulin)
-
-Deck [slides](http://slides.com/thecrazycodr/deck-5-6/fullscreen#/)
-
-Twitter [@thecrazycodr](https://twitter.com/thecrazycodr)
 
 #### [Construire une application Ionic sans perdre la raison](https://confoo.ca/en/yul2017/session/construire-une-application-ionic-sans-perdre-la-raison)
 By [Stéphanie Walter](https://confoo.ca/en/speaker/stephanie-walter)
@@ -591,3 +575,22 @@ By [Mikael Randy](https://confoo.ca/en/speaker/mikael-randy)
 
 #### [Faster Java EE Builds with Gradle](https://confoo.ca/en/yul2017/session/faster-java-ee-builds-with-gradle)
 By [Ryan Cuprak](https://confoo.ca/en/speaker/ryan-cuprak)
+
+## Thursday
+### 10:00AM - 10:45AM
+#### [Build a Web API with Hanami](https://confoo.ca/fr/yul2017/session/build-a-web-api-with-hanami)
+
+* By [Christophe Philemotte](http://ibakesoftware.com)
+* Deck [slides](https://speakerdeck.com/toch/build-a-web-api-with-hanami-confoo-montreal-2017) [code](https://github.com/toch/confoomontreal2017-jsonapi)
+* Twitter [@_toch](https://twitter.com/_toch)
+* Github [toch](https://github.com/toch)
+
+## Friday
+### 9:00AM - 09:45AM
+#### [Enterprise Learning Can Be Fun](https://confoo.ca/en/yul2017/session/enterprise-learning-can-be-fun)
+
+* By [Christophe Philemotte](http://ibakesoftware.com)
+* Deck [slides](https://speakerdeck.com/toch/enterprise-learning-can-be-fun-confoo-montreal-2017)
+* Twitter [@_toch](https://twitter.com/_toch)
+* Github [toch](https://github.com/toch)
+
